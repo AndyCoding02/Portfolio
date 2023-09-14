@@ -8,8 +8,8 @@ import Projects from "./Projects";
 const data = [
   "Development",
   "Python",
-  "Social Media"
-  // "Project"
+  "Social Media",
+  "Project"
 ];
 
 const Section = styled.div`
