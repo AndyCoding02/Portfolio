@@ -29,7 +29,7 @@ const Websites = () => {
                     <div className="content">
                         <h3>RoboFriends</h3>
                         <p>A searchable list full of friendly robots with their names and jobs.</p>
-                        <a href="https://robo-fr.web.app" target="_blank" title="" className="btn btn-default">Discover</a>
+                        <a href="https://robotfriends.onrender.com" target="_blank" title="" className="btn btn-default">Discover</a>
                     </div>
                 </div>
             </div>
