@@ -9,7 +9,7 @@ const data = [
   "Development",
   "Python",
   "Social Media",
-  "Project"
+  "Projects"
 ];
 
 const Section = styled.div`

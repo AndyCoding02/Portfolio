@@ -17,13 +17,13 @@ const Websites = () => {
     return (
         <div className="flex-container-left">
 
-            {/* <div className="flex-child">
+            {<div className="flex-child">
                 <div className="content">
                     <h3>SmartBrain</h3>
                     <p>A virtual brain capable of finding the faces in every photo.</p>
-                    <a href="./smartbrain" title="" className="btn btn-default">Discover</a>
+                    <a href="https://smart-brain-4ccr.onrender.com" target="_blank" title="" className="btn btn-default">Discover</a>
                 </div>
-            </div> */}
+            </div>}
             <div className="flex-container-right">
                 <div className="flex-child">
                     <div className="content">
