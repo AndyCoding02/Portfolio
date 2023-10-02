@@ -104,7 +104,7 @@ const About = () => {
             I have two more, in JavaScript and one in a Full-Stack
             Web Developer course
           </Desc>
-          <form action="https://certificates-40288.web.app" target="_blank">
+          <form action="https://certificates-fk77.onrender.com" target="_blank">
             <Button type="submit">See my certificates</Button>
           </form>
         </Right>
