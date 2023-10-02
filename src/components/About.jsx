@@ -59,7 +59,7 @@ const Line = styled.img`
 `;
 
 const Subtitle = styled.h2`
-  color: #da4ea2;
+  color: #66c7a7;
 `;
 
 const Desc = styled.p`
@@ -72,7 +72,7 @@ const Button = styled.button`
   height: 50px;
   font-size: 15px;
   padding: 10px;
-  background-color: #da4ea2;
+  background-color: #66c7a7;
   color: white;
   border: none;
   border-radius: 5px;

@@ -66,7 +66,7 @@ const Line = styled.img`
 `;
 
 const Subtitle = styled.h2`
-  color: #da4ea2;
+  color: #66c7a7;
 `;
 
 const Me = styled.h1`
@@ -132,7 +132,7 @@ const Hero = () => {
               <directionalLight position={[3, 2, 1]} />
               <Sphere args={[1, 100, 200]} scale={2.4}>
                 <MeshDistortMaterial
-                  color="#3d1c56"
+                  color="#1f2b85"
                   attach="material"
                   distort={0.5}
                   speed={2}

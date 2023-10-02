@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Works from "./components/Works";
 
+
 const Container = styled.div`
   height: 100vh;
   scroll-snap-type: y mandatory;
@@ -11,7 +12,7 @@ const Container = styled.div`
   overflow-y: auto;
   scrollbar-width: none;
   color: white;
-  background: url("./img/bg.jpeg");
+    background-image: linear-gradient(180deg, #1f2b85 0%, #9dcbe7 100%);
   &::-webkit-scrollbar{
     display: none;
   }

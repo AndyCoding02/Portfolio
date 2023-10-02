@@ -71,7 +71,7 @@ const ListItem = styled.li`
     position: absolute;
     top: 0;
     left: 0;
-    color: #1a18a3;
+    color: #66c7a7;
     width: 0px;
     overflow: hidden;
     white-space: nowrap;
