@@ -671,7 +671,7 @@ section {
 }
 
 .animate.scroll {
-    transition: .3s ease;
+    transition: .2s ease;
     transition-delay: calc(.1s / var(--i));
     animation: none;
 }
