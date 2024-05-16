@@ -671,7 +671,7 @@ section {
 }
 
 .animate.scroll {
-    transition: .6s ease;
+    transition: .7s ease;
     transition-delay: calc(.1s / var(--i));
     animation: none;
 }
@@ -687,7 +687,7 @@ section {
 .portfolio.show-animate .animate.scroll,
 .contact.show-animate .animate.scroll,
 .footer.show-animate .animate.scroll {
-    transition-delay: calc(.1s * var(--i));
+    transition-delay: .2s;
     width: 0;
 }
 
