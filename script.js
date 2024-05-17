@@ -4,7 +4,11 @@ var typed = new Typed(".multiple-text", {
     backSpeed: 100,
     backDelay: 2000,
     loop: true
-})
+});
+
+var form = document.getElementById("myForm");
+function handleForm(event) { event.preventDefault(); }
+form.addEventListener('submit', handleForm);
 
 let menuIcon = document.querySelector('#menu-icon');
 let navbar = document.querySelector('.navbar');
